@@ -1,7 +1,7 @@
 # Simple Organic E-shop
-A Shopping Website build with Angular2+ and Firebase.
+A  Web app built with Angular2+ and Firebase.
 ## Demo Link :
- Demo: https://oshop-a6a15.web.app 
+ Demo: https://oshop-a6a15.web.app
 ## Features
 - Auth & Authorization(Admin Role).
 - Normal User can buy items & view their own orders.
