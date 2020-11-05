@@ -1,44 +1,16 @@
-# Organic shop
-
-A Shopping Website build with Angular 4 and Firebase.
-
-
+# Simple Organic E-shop
+A Shopping Website build with Angular2+ and Firebase.
 ## Demo Link :
-
-- Live Demo: https://oshop-ritwick.firebaseapp.com/ 
-
-
+ Demo: https://oshop-a6a15.web.app 
 ## Features
-
-- Only Admin can perform Create/Edit/Delete operations & upload photos of items.
+- Auth & Authorization(Admin Role).
 - Normal User can buy items & view their own orders.
-- Admin can access all orders
-- Login through Facebook & Gmail
-- Cart System
-- Realtime updates (through Firebase Realtime Database).
+- C.R.U.D functionality
+- Cart System with realtime updates 
 
-## Tech Stuff Used
-
-- Angular 4 *(Frontend)*
+## Stack Used
+- Angular 2+ *(Frontend)*
 - Firebase Realtime Database *(Backend)*
 - Firebase authentication
 
-
-## To run the project locally:
-> To use your own Firebase Database change the api key from [`firebase-key`](./src/private/firebase-key.ts)
-
-```
-    > git clone https://github.com/ritwickdey/organic-shop.git
-    > cd organic-shop/
-    > npm install
-    > npm start -- --host 127.0.0.1
-
-```
-
-----------
-
-
-> *[The project is from an awesome [Angular 4 course](https://www.udemy.com/the-complete-angular-master-class/) (BY [MOSH HAMEDANI](https://github.com/mosh-hamedani)) which I've taken from Udemy.]*
-
-
-
+Done BY completing a Angular 2+ course by MOSH HAMEDANI (https://github.com/mosh-hamedani);
