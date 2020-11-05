@@ -13,7 +13,7 @@ My Web app built with Angular2+ and Firebase.
 - Firebase Realtime Database *(Backend)*
 - Firebase authentication
 
-Done by completing a Angular 2+ course by MOSH HAMEDANI (https://github.com/mosh-hamedani);
+Done by completing a Angular 2+ course by MOSH HAMEDANI ;
 ##
 npm i 
 
