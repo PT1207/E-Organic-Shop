@@ -1,5 +1,5 @@
 # Simple Organic E-shop
-A  Web app built with Angular2+ and Firebase.
+My Web app built with Angular2+ and Firebase.
 ## Demo Link :
  Demo: https://oshop-a6a15.web.app
 ## Features
@@ -13,4 +13,7 @@ A  Web app built with Angular2+ and Firebase.
 - Firebase Realtime Database *(Backend)*
 - Firebase authentication
 
-Done BY completing a Angular 2+ course by MOSH HAMEDANI (https://github.com/mosh-hamedani);
+Done by completing a Angular 2+ course by MOSH HAMEDANI (https://github.com/mosh-hamedani);
+##
+npm i 
+
